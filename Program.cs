@@ -3,7 +3,7 @@ string course1Name = "DSA";
 string course2Name = "DBMS";
 string course3Name = "Operating Systems";
 string course4Name = "Machine Learning";
-string course5Name = "DLCO";
+string course5Name = "Computer Networks";
 Random random = new Random();
 int course1Credit = random.Next(1, 5);
 int course2Credit = random.Next(1, 5);
@@ -40,6 +40,7 @@ int leadingDigit = (int) gradePointAverage;
 int firstDigit = (int) (gradePointAverage * 10 ) % 10;
 int secondDigit = (int) (gradePointAverage * 100 ) % 10;
 
+// Display the results
 Console.WriteLine($"Student: {studentName}\n");
 Console.WriteLine("╔═════════════════════════╦═══════╦══════════════╗");
 Console.WriteLine("║ Course                  ║ Grade ║ Credit Hours ║");
