@@ -1,0 +1,14 @@
+D:\sasuke\final_cgpa\bin\Debug\net10.0\final_cgpa.exe
+D:\sasuke\final_cgpa\bin\Debug\net10.0\final_cgpa.deps.json
+D:\sasuke\final_cgpa\bin\Debug\net10.0\final_cgpa.runtimeconfig.json
+D:\sasuke\final_cgpa\bin\Debug\net10.0\final_cgpa.dll
+D:\sasuke\final_cgpa\bin\Debug\net10.0\final_cgpa.pdb
+D:\sasuke\final_cgpa\obj\Debug\net10.0\final_cgpa.GeneratedMSBuildEditorConfig.editorconfig
+D:\sasuke\final_cgpa\obj\Debug\net10.0\final_cgpa.AssemblyInfoInputs.cache
+D:\sasuke\final_cgpa\obj\Debug\net10.0\final_cgpa.AssemblyInfo.cs
+D:\sasuke\final_cgpa\obj\Debug\net10.0\final_cgpa.csproj.CoreCompileInputs.cache
+D:\sasuke\final_cgpa\obj\Debug\net10.0\final_cgpa.dll
+D:\sasuke\final_cgpa\obj\Debug\net10.0\refint\final_cgpa.dll
+D:\sasuke\final_cgpa\obj\Debug\net10.0\final_cgpa.pdb
+D:\sasuke\final_cgpa\obj\Debug\net10.0\final_cgpa.genruntimeconfig.cache
+D:\sasuke\final_cgpa\obj\Debug\net10.0\ref\final_cgpa.dll
