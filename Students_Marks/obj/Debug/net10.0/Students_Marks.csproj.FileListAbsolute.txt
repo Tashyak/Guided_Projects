@@ -12,3 +12,4 @@ D:\sasuke\Marks\Students_Marks\obj\Debug\net10.0\refint\Students_Marks.dll
 D:\sasuke\Marks\Students_Marks\obj\Debug\net10.0\Students_Marks.pdb
 D:\sasuke\Marks\Students_Marks\obj\Debug\net10.0\Students_Marks.genruntimeconfig.cache
 D:\sasuke\Marks\Students_Marks\obj\Debug\net10.0\ref\Students_Marks.dll
+D:\sasuke\Marks\Students_Marks\obj\Debug\net10.0\Students_Marks.sourcelink.json
