@@ -81,11 +81,17 @@ Program.cs → Contains the main logic of the application
 README.md → Documentation explaining the project
 
 ▶️ How to Run the Project
+
 1️⃣ Clone the repository
+
 git clone https://github.com/Tashyak/Guided_Projects.git
+
 2️⃣ Navigate to the project folder
+
 cd Guided_Projects/Students_Marks
+
 3️⃣ Run the program
+
 dotnet run
 
 You can also run the program using Visual Studio or VS Code.
