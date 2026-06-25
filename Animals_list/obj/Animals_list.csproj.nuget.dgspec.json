@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\sasuke\\Animals_list\\Animals_list.csproj": {}
+    "d:\\sasuke\\Animals_list\\Animals_list.csproj": {}
   },
   "projects": {
-    "D:\\sasuke\\Animals_list\\Animals_list.csproj": {
+    "d:\\sasuke\\Animals_list\\Animals_list.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\sasuke\\Animals_list\\Animals_list.csproj",
+        "projectUniqueName": "d:\\sasuke\\Animals_list\\Animals_list.csproj",
         "projectName": "Animals_list",
-        "projectPath": "D:\\sasuke\\Animals_list\\Animals_list.csproj",
+        "projectPath": "d:\\sasuke\\Animals_list\\Animals_list.csproj",
         "packagesPath": "C:\\Users\\TASHYAK\\.nuget\\packages\\",
-        "outputPath": "D:\\sasuke\\Animals_list\\obj\\",
+        "outputPath": "d:\\sasuke\\Animals_list\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TASHYAK\\AppData\\Roaming\\NuGet\\NuGet.Config"
