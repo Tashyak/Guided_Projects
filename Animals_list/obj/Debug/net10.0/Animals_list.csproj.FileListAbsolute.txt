@@ -1,0 +1,15 @@
+D:\sasuke\Animals_list\bin\Debug\net10.0\Animals_list.exe
+D:\sasuke\Animals_list\bin\Debug\net10.0\Animals_list.deps.json
+D:\sasuke\Animals_list\bin\Debug\net10.0\Animals_list.runtimeconfig.json
+D:\sasuke\Animals_list\bin\Debug\net10.0\Animals_list.dll
+D:\sasuke\Animals_list\bin\Debug\net10.0\Animals_list.pdb
+D:\sasuke\Animals_list\obj\Debug\net10.0\Animals_list.GeneratedMSBuildEditorConfig.editorconfig
+D:\sasuke\Animals_list\obj\Debug\net10.0\Animals_list.AssemblyInfoInputs.cache
+D:\sasuke\Animals_list\obj\Debug\net10.0\Animals_list.AssemblyInfo.cs
+D:\sasuke\Animals_list\obj\Debug\net10.0\Animals_list.csproj.CoreCompileInputs.cache
+D:\sasuke\Animals_list\obj\Debug\net10.0\Animals_list.sourcelink.json
+D:\sasuke\Animals_list\obj\Debug\net10.0\Animals_list.dll
+D:\sasuke\Animals_list\obj\Debug\net10.0\refint\Animals_list.dll
+D:\sasuke\Animals_list\obj\Debug\net10.0\Animals_list.pdb
+D:\sasuke\Animals_list\obj\Debug\net10.0\Animals_list.genruntimeconfig.cache
+D:\sasuke\Animals_list\obj\Debug\net10.0\ref\Animals_list.dll
