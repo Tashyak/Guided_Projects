@@ -63,12 +63,13 @@ These projects allowed me to:
 
 As an aspiring Game Developer, I plan to continue expanding this repository by:
 
-*Strengthening my programming skills through hands-on projects.
-*Learning advanced C# concepts and software design principles.
-*Exploring game development frameworks and engines such as Unity.
-*Building interactive games and real-world gaming projects.
-*Understanding game mechanics, AI, and optimization techniques.
-*Creating a strong portfolio of projects that showcase my growth as a Game Developer.
+* Strengthening my programming skills through hands-on projects.
+* Learning advanced C# concepts and software design principles.
+* Exploring game development frameworks and engines such as Unity.
+* Building interactive games and real-world gaming projects.
+* Understanding game mechanics, AI, and optimization techniques.
+* Creating a strong portfolio of projects that showcase my growth as a Game Developer.
+
 
 ## 🤝 Acknowledgements
 
