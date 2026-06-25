@@ -1,0 +1,15 @@
+D:\sasuke\PetStore\bin\Debug\net10.0\PetStore.exe
+D:\sasuke\PetStore\bin\Debug\net10.0\PetStore.deps.json
+D:\sasuke\PetStore\bin\Debug\net10.0\PetStore.runtimeconfig.json
+D:\sasuke\PetStore\bin\Debug\net10.0\PetStore.dll
+D:\sasuke\PetStore\bin\Debug\net10.0\PetStore.pdb
+D:\sasuke\PetStore\obj\Debug\net10.0\PetStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\sasuke\PetStore\obj\Debug\net10.0\PetStore.AssemblyInfoInputs.cache
+D:\sasuke\PetStore\obj\Debug\net10.0\PetStore.AssemblyInfo.cs
+D:\sasuke\PetStore\obj\Debug\net10.0\PetStore.csproj.CoreCompileInputs.cache
+D:\sasuke\PetStore\obj\Debug\net10.0\PetStore.sourcelink.json
+D:\sasuke\PetStore\obj\Debug\net10.0\PetStore.dll
+D:\sasuke\PetStore\obj\Debug\net10.0\refint\PetStore.dll
+D:\sasuke\PetStore\obj\Debug\net10.0\PetStore.pdb
+D:\sasuke\PetStore\obj\Debug\net10.0\PetStore.genruntimeconfig.cache
+D:\sasuke\PetStore\obj\Debug\net10.0\ref\PetStore.dll
