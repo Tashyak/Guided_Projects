@@ -1,0 +1,3 @@
+# Ignore build and compilation outputs in any subfolder
+**/bin/
+**/obj/
